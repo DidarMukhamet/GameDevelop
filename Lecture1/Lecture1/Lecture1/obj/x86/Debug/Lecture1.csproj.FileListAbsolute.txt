@@ -1,0 +1,8 @@
+c:\users\b.kumalakov\documents\visual studio 2013\Projects\Lecture1\Lecture1\Lecture1\bin\x86\Debug\Lecture1.exe
+c:\users\b.kumalakov\documents\visual studio 2013\Projects\Lecture1\Lecture1\Lecture1\bin\x86\Debug\Lecture1.pdb
+c:\users\b.kumalakov\documents\visual studio 2013\Projects\Lecture1\Lecture1\Lecture1\obj\x86\Debug\Lecture1.csprojResolveAssemblyReference.cache
+c:\users\b.kumalakov\documents\visual studio 2013\Projects\Lecture1\Lecture1\Lecture1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\b.kumalakov\documents\visual studio 2013\Projects\Lecture1\Lecture1\Lecture1\obj\x86\Debug\Lecture1.exe
+c:\users\b.kumalakov\documents\visual studio 2013\Projects\Lecture1\Lecture1\Lecture1\obj\x86\Debug\Lecture1.pdb
+c:\users\b.kumalakov\documents\visual studio 2013\Projects\Lecture1\Lecture1\Lecture1\bin\x86\Debug\Content\orangeSquare.xnb
+c:\users\b.kumalakov\documents\visual studio 2013\Projects\Lecture1\Lecture1\Lecture1\bin\x86\Debug\Content\blackSquare.xnb
